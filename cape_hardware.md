@@ -1,4 +1,4 @@
-#Cape prototype hardware
+# Cape prototype hardware
 
 [SparkFun BeagleBone Black Proto Cape](https://www.sparkfun.com/products/12774)
 
