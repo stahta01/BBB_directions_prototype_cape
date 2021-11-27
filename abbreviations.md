@@ -1,14 +1,16 @@
-
-| abbr | meaning |
-| --- | --------------------------- |
-| BBB |    Beaglebone black         |
-| BHI |    Boot Host Interface |
-| BIOS |   Basic Input/Output System |
-| CAN |    Controller Area Network |
-| DDR  |   Double Data Rate |
-| eCAP |   Enhanced Capture |
-| EDMA |   Enhanced Direct Memory Access |
-| eMMC  |  embedded MMC |
+| abbr   | meaning |
+| ------ | --------------------------- |
+| AI     | Artificial intelligence
+| BB-AI  | Beaglebone AI
+| BBB    | Beaglebone Black
+| BBBL   | Beaglebone Blue
+| BHI    | Boot Host Interface
+| BIOS   | Basic Input/Output System
+| CAN    | Controller Area Network
+| DDR    | Double Data Rate
+| eCAP   | Enhanced Capture
+| EDMA   | Enhanced Direct Memory Access
+| eMMC   | embedded MMC
 | ePWM   | Enhanced PWM
 | eQEP   | Enhanced Quadrature Encoder Pulse
 | EXT4   | Linux File System
