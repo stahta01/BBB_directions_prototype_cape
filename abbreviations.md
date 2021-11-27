@@ -28,6 +28,8 @@
 | NFS    | Network File System
 | PMIC   | Power Management IC
 | PWM    | Pulse-Width Modulation
+| PRU    | programmable real-time unit
+| PRU-ICSS | programmable real-time unit and Industrial Communication Subsystem
 | RBL    | ROM Bootloader
 | RCA    | Relative Card Address
 | RFS    | Linux Robust FAT File System
