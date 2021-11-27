@@ -20,6 +20,8 @@
 | GPMC   | General Purpose Memory Controller
 | I2C    | serial protocol for two-wire interface
 | LKM    | Loadable kernel modules
+| McASP  | Multichannel Audio Serial Port
+| McSPI  | Multichannel Serial Port Interface
 | MHI    | Modem Host Interface
 | MLO    | Memory LOader
 | MMC    | Multimedia Card
