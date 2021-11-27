@@ -8,3 +8,5 @@ This will mostly links to other sites.
 [Cape hardware](cape_hardware.md)
 
 [Cape software](cape_software.md)
+
+[Abbreviations](abbreviations.md)
