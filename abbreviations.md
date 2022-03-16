@@ -4,6 +4,7 @@
 | BB-AI  | Beaglebone AI
 | BBB    | Beaglebone Black
 | BBBL   | Beaglebone Blue
+| BBBWL  | Beaglebone Black Wireless
 | BHI    | Boot Host Interface
 | BIOS   | Basic Input/Output System
 | CAN    | Controller Area Network
