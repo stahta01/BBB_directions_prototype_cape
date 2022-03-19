@@ -9,6 +9,6 @@ This will mostly links to other sites.
 
 [Cape software](cape_software.md)
 
-[Abbreviations](abbreviations.md)
+[Abbreviations](https://github.com/stahta01/BBB_directions/blob/main/abbreviations.md)
 
 [Build custom image](build_custom_image.md)
