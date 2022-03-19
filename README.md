@@ -3,7 +3,7 @@ Beaglebone Black startup directions and how to create an cape.
 
 This will mostly links to other sites.
 
-[Startup directions](startup.md)
+[Startup directions](https://github.com/stahta01/BBB_directions/blob/main/startup.md)
 
 [Cape hardware](cape_hardware.md)
 
