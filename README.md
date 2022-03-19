@@ -10,3 +10,5 @@ This will mostly links to other sites.
 [Cape software](cape_software.md)
 
 [Abbreviations](abbreviations.md)
+
+[Build custom image](build_custom_image.md)
